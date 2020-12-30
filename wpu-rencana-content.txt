@@ -1,5 +1,6 @@
 rencana konten
 -tips dan trik pemakaian ps
--dihapus
 -hal hal yang keren
 - tambahan
+fitur 2
+tambah
