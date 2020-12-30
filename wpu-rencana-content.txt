@@ -2,3 +2,4 @@ rencana konten
 -tips dan trik pemakaian ps
 -hal hal yang keren
 - tambahan
+fitur 2
